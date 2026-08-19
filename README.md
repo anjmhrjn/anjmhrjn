@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Maharjan</h1>
 <h3 align="center">AWS Certified Developer - Associate</h3>
 <h3 align="center">AWS Certified Machine Learning Engineer - Associate</h3>
+<h3 align="center">Databricks Certified Data Engineer - Associate</h3>
 
 - 👨‍💻 All of my projects are available at [https://maharjananuj.com.np/](https://maharjananuj.com.np/)
 
